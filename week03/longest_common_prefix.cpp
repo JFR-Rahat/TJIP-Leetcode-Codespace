@@ -6,7 +6,7 @@
 // lcp string will stop including any further character.
 
 // TC = O(n^2)
-// SC = O(n)
+// SC = O(1)
 
 class Solution {
 public:
