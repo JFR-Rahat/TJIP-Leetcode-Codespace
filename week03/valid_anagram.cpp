@@ -5,7 +5,7 @@
 // same result, then they will be anagram.
 
 // TC = O(n)
-// SC = O(n)
+// SC = O(1)
 
 class Solution {
 public:
