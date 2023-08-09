@@ -4,7 +4,7 @@
 // we can figure out the maximum number of
 // points through this. 
 
-// TC = O(n^2)
+// TC = O(n^2logn)
 // SC = O(n)
 
 class Solution {
